@@ -1,7 +1,7 @@
 # deno_bson
 
-Forked from **[npm package bson](https://www.npmjs.com/package/bson)**, now
-support for Deno.
+Forked from **[npm package bson v4.5.3](https://www.npmjs.com/package/bson)**,
+now support for Deno.
 
 You can you like this:
 
